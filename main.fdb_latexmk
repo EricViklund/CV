@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1698784762 "c:/Users/Eric Viklund/projects/CV/main.tex" "main.pdf" "main" 1698784763 2
-  "c:/Users/Eric Viklund/projects/CV/main.tex" 1698784760 5076 10daec8fb21edfa90a656d1511bb48a9 ""
+["pdflatex"] 1699231903 "c:/Users/Eric Viklund/projects/CV/main.tex" "main.pdf" "main" 1699231904 2
+  "c:/Users/Eric Viklund/projects/CV/main.tex" 1699231901 4942 b4f7f3cacdef47e5968725853028935e ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1697844009 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1697843984 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1697844103 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -21,8 +21,8 @@
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697844437 7510581 7f223d22c003228cbcc6dffc92911d0e ""
   "c:/texlive/2023/texmf.cnf" 1697844379 713 e69b156964470283e0530f5060668171 ""
   "ebgaramond.sty" 0 -1 0 ""
-  "main.aux" 1698784762 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "main.tex" 1698784760 5076 10daec8fb21edfa90a656d1511bb48a9 ""
+  "main.aux" 1699231903 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1699231901 4942 b4f7f3cacdef47e5968725853028935e ""
   "structure.tex" 1698784760 3733 62ed77a922f16a4fe3278a5e696b61dc ""
   (generated)
   "main.aux"

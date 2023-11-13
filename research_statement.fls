@@ -1,0 +1,22 @@
+PWD c:/Users/Eric Viklund/projects/CV
+INPUT c:/texlive/2023/texmf.cnf
+INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/Eric Viklund/projects/CV/research_statement.tex
+OUTPUT research_statement.log
+INPUT c:/texlive/2023/texmf-dist/tex/latex/revtex/revtex4-2.cls
+INPUT c:/texlive/2023/texmf-dist/tex/latex/revtex/revtex4-2.cls
+INPUT c:/texlive/2023/texmf-dist/tex/latex/revtex/aps4-2.rtx
+INPUT c:/texlive/2023/texmf-dist/tex/latex/revtex/aps4-2.rtx
+INPUT c:/texlive/2023/texmf-dist/tex/latex/revtex/aps4-2.rtx
+INPUT c:/texlive/2023/texmf-dist/tex/latex/revtex/aps10pt4-2.rtx
+INPUT c:/texlive/2023/texmf-dist/tex/latex/revtex/aps10pt4-2.rtx
+INPUT c:/texlive/2023/texmf-dist/tex/latex/revtex/aps10pt4-2.rtx
+INPUT c:/texlive/2023/texmf-dist/tex/latex/textcase/textcase.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/textcase/textcase.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/revtex/revsymb4-2.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/revtex/revsymb4-2.sty
