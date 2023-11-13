@@ -2,13 +2,13 @@
 ["bibtex research_statement"] 0 "research_statement.aux" "research_statement.bbl" "research_statement" 0
   "ref.bib" 1699906795 2732 dc76d97bb653762b68ae71c30895e685 ""
   "research_statement.aux" 0 -1 0 "pdflatex"
-  "research_statementNotes.bib" 1699906796 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "research_statementNotes.bib" 1699908389 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "research_statement.bbl"
   "research_statement.blg"
-["pdflatex"] 1699906796 "/home/viklund/Projects/CV/research_statement.tex" "research_statement.pdf" "research_statement" 1699906796
+["pdflatex"] 1699908388 "/home/viklund/Projects/CV/research_statement.tex" "research_statement.pdf" "research_statement" 1699908388
   "/etc/texmf/web2c/texmf.cnf" 1698692269 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/viklund/Projects/CV/research_statement.tex" 1699906795 6651 87b7f1335336d58fa534ef94fa42f2be ""
+  "/home/viklund/Projects/CV/research_statement.tex" 1699908388 6617 54e6824be5188e68ffa63e19ac6e0920 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -58,9 +58,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1698692356 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1698692368 2798339 a65b12bc8daa0244588e85e9d5ee81ec ""
-  "research_statement.aux" 1699906796 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "research_statement.bbl" 1699906796 0 d41d8cd98f00b204e9800998ecf8427e "bibtex research_statement"
-  "research_statement.tex" 1699906795 6651 87b7f1335336d58fa534ef94fa42f2be ""
+  "research_statement.aux" 1699908388 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "research_statement.bbl" 1699908388 0 d41d8cd98f00b204e9800998ecf8427e "bibtex research_statement"
+  "research_statement.tex" 1699908388 6617 54e6824be5188e68ffa63e19ac6e0920 ""
   (generated)
   "research_statement.aux"
   "research_statement.log"
