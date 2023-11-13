@@ -1,0 +1,285 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{viklund2023improving}{article}{}
+      \name{author}{4}{}{%
+        {{hash=093864f3271b5dece51e27dd82a2e731}{%
+           family={Viklund},
+           familyi={V\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5a6c56c6f3a12faecfcfe17b4349398d}{%
+           family={Seidman},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima N},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=ab4d0c84bc6b5d26fbfd6229fa812e6a}{%
+           family={Burk},
+           familyi={B\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1b330a4716eb106181b3aa53589aaedb}{%
+           family={Posen},
+           familyi={P\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{59545a4f855597b1186444e3246eaccf}
+      \strng{fullhash}{2403dde0f4e57fb2d4da345d7b4aa757}
+      \strng{bibnamehash}{2403dde0f4e57fb2d4da345d7b4aa757}
+      \strng{authorbibnamehash}{2403dde0f4e57fb2d4da345d7b4aa757}
+      \strng{authornamehash}{59545a4f855597b1186444e3246eaccf}
+      \strng{authorfullhash}{2403dde0f4e57fb2d4da345d7b4aa757}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2305.10226}
+      \field{title}{Improving Nb3Sn Cavity Performance Using Centrifugal Barrel Polishing}
+      \field{year}{2023}
+      \true{nocite}
+    \endentry
+    \entry{viklund2023three}{article}{}
+      \name{author}{4}{}{%
+        {{hash=45d27518d2f830081084ae43f08854d9}{%
+           family={Viklund},
+           familyi={V\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a38fe2282e0ae708270c02346a36d08f}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d4ff2c29f075179d47aa4d40356abe54}{%
+           family={Seidman},
+           familyi={S\bibinitperiod},
+           given={DN},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d86856a1ec8885ab20b8aa1ce6ad2d6a}{%
+           family={Posen},
+           familyi={P\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{9dc8a8677a74bc574a1601772feccde4}
+      \strng{fullhash}{47ca2c9f6781356aec2866014f647c83}
+      \strng{bibnamehash}{47ca2c9f6781356aec2866014f647c83}
+      \strng{authorbibnamehash}{47ca2c9f6781356aec2866014f647c83}
+      \strng{authornamehash}{9dc8a8677a74bc574a1601772feccde4}
+      \strng{authorfullhash}{47ca2c9f6781356aec2866014f647c83}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Applied Superconductivity}
+      \field{number}{5}
+      \field{title}{Three-Dimensional Reconstruction of Nb 3 Sn Films by Focused Ion Beam Cross Sectional Microscopy}
+      \field{volume}{33}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+    \endentry
+    \entry{chouhan:srf2023-weixa05}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=356ca0a6bb9a9e9291cabcf6a1c93451}{%
+           family={Chouhan},
+           familyi={C\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=e088e2158b9f08e183c178bd19e87046}{%
+           family={Ring},
+           familyi={R\bibinitperiod},
+           given={T.J.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=30e26f066e1c4270731de8ea652df241}{%
+           family={Viklund},
+           familyi={V\bibinitperiod},
+           given={E.A.S.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3a6190350332d4c29299ed40bff3613f}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {JACoW Publishing, Geneva, Switzerland}%
+      }
+      \strng{namehash}{7513998fe9b66abc8e97f729f3477e2a}
+      \strng{fullhash}{198497adeb91798245397a60b0d4d7ee}
+      \strng{bibnamehash}{198497adeb91798245397a60b0d4d7ee}
+      \strng{authorbibnamehash}{198497adeb91798245397a60b0d4d7ee}
+      \strng{authornamehash}{7513998fe9b66abc8e97f729f3477e2a}
+      \strng{authorfullhash}{198497adeb91798245397a60b0d4d7ee}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{The nitrogen doping (N-doping) process is applied to niobium (Nb) superconducting cavities to enhance their quality factors. The N-doping is followed by an electropolishing process that provides the final surface of the cavities. A controlled EP process is necessary to get the benefit of N-doping and achieve a high accelerating gradient. We have performed electropolishing of N-doped Nb surface under various conditions to understand their impact on the surface. A modified EP process was developed to obtain a smooth pit-free surface.}}
+      \field{booktitle}{Proc. 21th Int. Conf. RF Supercond. (SRF'23)}
+      \field{eid}{WEIXA05}
+      \field{isbn}{978-3-95450-234-9}
+      \field{issn}{2673-5504}
+      \field{month}{09}
+      \field{number}{21}
+      \field{series}{International Conference on RF Superconductivity}
+      \field{title}{{Electropolishing Study on Nitrogen-Doped Niobium Surface}}
+      \field{venue}{Grand Rapids, MI, USA}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{641\bibrangedash 645}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.18429/JACoW-SRF2023-WEIXA05
+      \endverb
+      \verb{urlraw}
+      \verb https://jacow.org/srf2023/papers/weixa05.pdf
+      \endverb
+      \verb{url}
+      \verb https://jacow.org/srf2023/papers/weixa05.pdf
+      \endverb
+      \keyw{cavity,niobium,SRF,cathode,radio-frequency}
+    \endentry
+    \entry{viklund:ipac2023-wepa180}{unpublished}{}
+      \name{author}{1}{}{%
+        {{hash=f144694f36337e57387d1525aa7a728b}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={E.\bibnamedelimi Viklund},
+           giveni={E\bibinitperiod\bibinitdelim V\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {JACoW Publishing, Geneva, Switzerland}%
+      }
+      \strng{namehash}{f144694f36337e57387d1525aa7a728b}
+      \strng{fullhash}{f144694f36337e57387d1525aa7a728b}
+      \strng{bibnamehash}{f144694f36337e57387d1525aa7a728b}
+      \strng{authorbibnamehash}{f144694f36337e57387d1525aa7a728b}
+      \strng{authornamehash}{f144694f36337e57387d1525aa7a728b}
+      \strng{authorfullhash}{f144694f36337e57387d1525aa7a728b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proc. IPAC'23}
+      \field{isbn}{978-3-95450-231-8}
+      \field{issn}{2673-5490}
+      \field{month}{05}
+      \field{note}{presented at IPAC'23, Venice, Italy, 2023, paper WEPA180, unpublished}
+      \field{number}{14}
+      \field{series}{IPAC'23 - 14th International Particle Accelerator Conference}
+      \field{title}{Mechanical Polishing of Nb3Sn Thin-Film Cavities}
+      \field{venue}{Venice, Italy}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://indico.jacow.org/event/41/contributions/1852
+      \endverb
+      \verb{url}
+      \verb https://indico.jacow.org/event/41/contributions/1852
+      \endverb
+    \endentry
+    \entry{viklund:srf2021-supcav016}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=30e26f066e1c4270731de8ea652df241}{%
+           family={Viklund},
+           familyi={V\bibinitperiod},
+           given={E.A.S.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e9afbdbec6759de5edf8eeb804b8599f}{%
+           family={Grassellino},
+           familyi={G\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=d86856a1ec8885ab20b8aa1ce6ad2d6a}{%
+           family={Posen},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e088e2158b9f08e183c178bd19e87046}{%
+           family={Ring},
+           familyi={R\bibinitperiod},
+           given={T.J.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d4ff2c29f075179d47aa4d40356abe54}{%
+           family={Seidman},
+           familyi={S\bibinitperiod},
+           given={D.N.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \list{publisher}{1}{%
+        {JACoW Publishing, Geneva, Switzerland}%
+      }
+      \strng{namehash}{e41fd3eaae86db0e2269e835ca2b70a6}
+      \strng{fullhash}{9a83a44f3c3de054725e3a921ab30c4e}
+      \strng{bibnamehash}{9a83a44f3c3de054725e3a921ab30c4e}
+      \strng{authorbibnamehash}{9a83a44f3c3de054725e3a921ab30c4e}
+      \strng{authornamehash}{e41fd3eaae86db0e2269e835ca2b70a6}
+      \strng{authorfullhash}{9a83a44f3c3de054725e3a921ab30c4e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{To improve the superconducting performance of niobium SRF cavities, electropolishing (EP) with a sulfuric and hydroflouric acid mixture is used. The chemistry of this reaction is complex due to the interactions between diffusion mechanisms, surface oxide structure, and multiple chemical species. Past studies on the EP process have produced a certain set of optimum parameters that have been used successfully for a long time. However, two recent developments have called the efficacy of the existing EP process into question. Since the introduction of nitrogen doping the surface quality of some cavities has been very poor. Also, EP performed at colder than standard temperatures leads to an increase in the cavity performance. To understand these questions, we perform a multivariate study on the EP process using niobium test samples electropolished at different temperatures and potentials. We find that electropolishing at lower potentials leads to rough surface features such as pitting and grain etching. Some of the surface features show similarities to features seen in niobium cavities. The effect of electropolishing temperature is not clear based on the results of this study.}}
+      \field{booktitle}{Proc. SRF'21}
+      \field{eid}{SUPCAV016}
+      \field{isbn}{978-3-95450-233-2}
+      \field{issn}{2673-5504}
+      \field{month}{10}
+      \field{number}{20}
+      \field{series}{International Conference on RF Superconductivity}
+      \field{title}{{Studies on the Fundamental Mechanisms of Niobium Electropolishing}}
+      \field{venue}{East Lansing, MI, USA}
+      \field{year}{2022}
+      \true{nocite}
+      \field{pages}{50\bibrangedash 52}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.18429/JACoW-SRF2021-SUPCAV016
+      \endverb
+      \verb{urlraw}
+      \verb https://jacow.org/srf2021/papers/supcav016.pdf
+      \endverb
+      \verb{url}
+      \verb https://jacow.org/srf2021/papers/supcav016.pdf
+      \endverb
+      \keyw{cavity,niobium,SRF,electron,experiment}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
