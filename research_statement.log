@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.30)  13 NOV 2023 14:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.30)  15 NOV 2023 16:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -240,32 +240,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 22.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 
+Package natbib Warning: Citation `?' on page 2 undefined on input line 50.
 
-Package natbib Warning: Citation `viklund2023improving' on page 1 undefined on input line 26.
+[2] (./research_statement.bbl)
 
+Package natbib Warning: There were undefined citations.
 
-Package natbib Warning: Citation `viklund:srf2021-supcav016' on page 1 undefined on input line 28.
-
-
-Package natbib Warning: Citation `viklund2023improving' on page 1 undefined on input line 30.
-
-
-Package natbib Warning: Citation `viklund2023three' on page 1 undefined on input line 30.
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./research_statement.bbl))
-! Emergency stop.
-<*> .../viklund/Projects/CV/research_statement.tex
-                                                  
-*** (job aborted, no legal \end found)
-
- 
+[3] (./research_statement.aux) ) 
 Here is how much of TeX's memory you used:
- 7486 strings out of 478287
- 164777 string characters out of 5849288
- 443524 words of memory out of 5000000
- 25643 multiletter control sequences out of 15000+600000
+ 7512 strings out of 478287
+ 165277 string characters out of 5849288
+ 451907 words of memory out of 5000000
+ 25667 multiletter control sequences out of 15000+600000
  472947 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,6n,79p,1499b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 71i,6n,79p,1494b,512s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on research_statement.pdf (3 pages, 142631 bytes).
+PDF statistics:
+ 64 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
