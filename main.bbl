@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{viklund2023improving}{article}{}
+    \entry{10.1088/1361-6668/ad0b2d}{article}{}
       \name{author}{4}{}{%
         {{hash=093864f3271b5dece51e27dd82a2e731}{%
            family={Viklund},
@@ -52,10 +52,16 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{arXiv preprint arXiv:2305.10226}
-      \field{title}{Improving Nb3Sn Cavity Performance Using Centrifugal Barrel Polishing}
+      \field{journaltitle}{Superconductor Science and Technology}
+      \field{title}{Improving Nb3Sn cavity performance using centrifugal barrel polishing}
       \field{year}{2023}
       \true{nocite}
+      \verb{urlraw}
+      \verb http://iopscience.iop.org/article/10.1088/1361-6668/ad0b2d
+      \endverb
+      \verb{url}
+      \verb http://iopscience.iop.org/article/10.1088/1361-6668/ad0b2d
+      \endverb
     \endentry
     \entry{viklund2023three}{article}{}
       \name{author}{4}{}{%
@@ -166,50 +172,6 @@
       \endverb
       \keyw{cavity,niobium,SRF,cathode,radio-frequency}
     \endentry
-    \entry{viklund:ipac2023-wepa180}{unpublished}{}
-      \name{author}{1}{}{%
-        {{hash=f144694f36337e57387d1525aa7a728b}{%
-           family={al.},
-           familyi={a\bibinitperiod},
-           given={E.\bibnamedelimi Viklund},
-           giveni={E\bibinitperiod\bibinitdelim V\bibinitperiod},
-           prefix={et},
-           prefixi={e\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {English}%
-      }
-      \list{publisher}{1}{%
-        {JACoW Publishing, Geneva, Switzerland}%
-      }
-      \strng{namehash}{f144694f36337e57387d1525aa7a728b}
-      \strng{fullhash}{f144694f36337e57387d1525aa7a728b}
-      \strng{bibnamehash}{f144694f36337e57387d1525aa7a728b}
-      \strng{authorbibnamehash}{f144694f36337e57387d1525aa7a728b}
-      \strng{authornamehash}{f144694f36337e57387d1525aa7a728b}
-      \strng{authorfullhash}{f144694f36337e57387d1525aa7a728b}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Proc. IPAC'23}
-      \field{isbn}{978-3-95450-231-8}
-      \field{issn}{2673-5490}
-      \field{month}{05}
-      \field{note}{presented at IPAC'23, Venice, Italy, 2023, paper WEPA180, unpublished}
-      \field{number}{14}
-      \field{series}{IPAC'23 - 14th International Particle Accelerator Conference}
-      \field{title}{Mechanical Polishing of Nb3Sn Thin-Film Cavities}
-      \field{venue}{Venice, Italy}
-      \field{year}{2023}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://indico.jacow.org/event/41/contributions/1852
-      \endverb
-      \verb{url}
-      \verb https://indico.jacow.org/event/41/contributions/1852
-      \endverb
-    \endentry
     \entry{viklund:srf2021-supcav016}{inproceedings}{}
       \name{author}{5}{}{%
         {{hash=30e26f066e1c4270731de8ea652df241}{%
@@ -250,8 +212,8 @@
       \strng{authorbibnamehash}{9a83a44f3c3de054725e3a921ab30c4e}
       \strng{authornamehash}{e41fd3eaae86db0e2269e835ca2b70a6}
       \strng{authorfullhash}{9a83a44f3c3de054725e3a921ab30c4e}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{{To improve the superconducting performance of niobium SRF cavities, electropolishing (EP) with a sulfuric and hydroflouric acid mixture is used. The chemistry of this reaction is complex due to the interactions between diffusion mechanisms, surface oxide structure, and multiple chemical species. Past studies on the EP process have produced a certain set of optimum parameters that have been used successfully for a long time. However, two recent developments have called the efficacy of the existing EP process into question. Since the introduction of nitrogen doping the surface quality of some cavities has been very poor. Also, EP performed at colder than standard temperatures leads to an increase in the cavity performance. To understand these questions, we perform a multivariate study on the EP process using niobium test samples electropolished at different temperatures and potentials. We find that electropolishing at lower potentials leads to rough surface features such as pitting and grain etching. Some of the surface features show similarities to features seen in niobium cavities. The effect of electropolishing temperature is not clear based on the results of this study.}}

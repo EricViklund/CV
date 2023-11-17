@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main"] 1699906121 "main.bcf" "main.bbl" "main" 1699906123
-  "main.bcf" 1699906123 106391 6c09d636337e096de33a7e240dba9620 "pdflatex"
-  "publications.bib" 1699906120 4924 dd3bdfc32cba620f054a0d02a1383518 ""
+["biber main"] 1700259705 "main.bcf" "main.bbl" "main" 1700259707
+  "main.bcf" 1700259707 106391 6c09d636337e096de33a7e240dba9620 "pdflatex"
+  "publications.bib" 1700259705 4236 a72c8b50ade73de43efb251d57e90fd5 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1699906122 "/home/viklund/Projects/CV/main.tex" "main.pdf" "main" 1699906123
+["pdflatex"] 1700259706 "/home/viklund/Projects/CV/main.tex" "main.pdf" "main" 1700259707
   "/etc/texmf/web2c/texmf.cnf" 1698692269 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/viklund/Projects/CV/main.tex" 1699904966 4774 3ddc0b16ffdd1ef9d7bdafb184565752 ""
+  "/home/viklund/Projects/CV/main.tex" 1700259652 5472 ca848806c3bf9acc7ab696a118e5ddd9 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_byuyni.enc" 1571867360 3536 0b568a348f6bb401cdf4107d502ced4e ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_ld6df2.enc" 1571867360 3348 4fd518ca0f4eb2de1aa92f19c8ce7175 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_ljow5q.enc" 1571867360 3091 3883b26aed3242dcea4d1b2dc17d939b ""
@@ -131,11 +131,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1698692356 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1698692368 2798339 a65b12bc8daa0244588e85e9d5ee81ec ""
-  "main.aux" 1699906123 1592 ca31c1aa509c560ad560435bba24efec "pdflatex"
-  "main.bbl" 1699906121 12196 b6392577708e8e625744a9d1ecbef50e "biber main"
-  "main.out" 1699906123 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.run.xml" 1699906123 2404 abb598a28ff57fc851a9e36adeff9a21 "pdflatex"
-  "main.tex" 1699904966 4774 3ddc0b16ffdd1ef9d7bdafb184565752 ""
+  "main.aux" 1700259707 1806 85783229650409b311804ec9cfde2581 "pdflatex"
+  "main.bbl" 1700259706 10681 aff64f0bfbf5bc1d5e4ba8399cf46d82 "biber main"
+  "main.out" 1700259707 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.run.xml" 1700259707 2404 abb598a28ff57fc851a9e36adeff9a21 "pdflatex"
+  "main.tex" 1700259652 5472 ca848806c3bf9acc7ab696a118e5ddd9 ""
   "structure.tex" 1699904822 3783 ab88f76664a0d8b16801d00c26b66ea7 ""
   (generated)
   "main.aux"
