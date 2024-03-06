@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{10.1088/1361-6668/ad0b2d}{article}{}
+    \entry{viklund2024improving}{article}{}
       \name{author}{4}{}{%
         {{hash=093864f3271b5dece51e27dd82a2e731}{%
            family={Viklund},
@@ -42,6 +42,9 @@
            given={Sam},
            giveni={S\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
       \strng{namehash}{59545a4f855597b1186444e3246eaccf}
       \strng{fullhash}{2403dde0f4e57fb2d4da345d7b4aa757}
       \strng{bibnamehash}{2403dde0f4e57fb2d4da345d7b4aa757}
@@ -53,15 +56,13 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Superconductor Science and Technology}
+      \field{number}{2}
       \field{title}{Improving Nb3Sn cavity performance using centrifugal barrel polishing}
-      \field{year}{2023}
+      \field{volume}{37}
+      \field{year}{2024}
       \true{nocite}
-      \verb{urlraw}
-      \verb http://iopscience.iop.org/article/10.1088/1361-6668/ad0b2d
-      \endverb
-      \verb{url}
-      \verb http://iopscience.iop.org/article/10.1088/1361-6668/ad0b2d
-      \endverb
+      \field{pages}{025009}
+      \range{pages}{1}
     \endentry
     \entry{viklund2023three}{article}{}
       \name{author}{4}{}{%
