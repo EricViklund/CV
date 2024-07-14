@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -18,8 +18,8 @@
 
 
 \refsection{0}
-  \datalist[entry]{none/global//global/global}
-    \entry{viklund2024improving}{article}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{viklund2024improving}{article}{}{}
       \name{author}{4}{}{%
         {{hash=093864f3271b5dece51e27dd82a2e731}{%
            family={Viklund},
@@ -47,12 +47,14 @@
       }
       \strng{namehash}{59545a4f855597b1186444e3246eaccf}
       \strng{fullhash}{2403dde0f4e57fb2d4da345d7b4aa757}
+      \strng{fullhashraw}{2403dde0f4e57fb2d4da345d7b4aa757}
       \strng{bibnamehash}{2403dde0f4e57fb2d4da345d7b4aa757}
       \strng{authorbibnamehash}{2403dde0f4e57fb2d4da345d7b4aa757}
       \strng{authornamehash}{59545a4f855597b1186444e3246eaccf}
       \strng{authorfullhash}{2403dde0f4e57fb2d4da345d7b4aa757}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \strng{authorfullhashraw}{2403dde0f4e57fb2d4da345d7b4aa757}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Superconductor Science and Technology}
@@ -64,7 +66,7 @@
       \field{pages}{025009}
       \range{pages}{1}
     \endentry
-    \entry{viklund2023three}{article}{}
+    \entry{viklund2023three}{article}{}{}
       \name{author}{4}{}{%
         {{hash=45d27518d2f830081084ae43f08854d9}{%
            family={Viklund},
@@ -92,12 +94,14 @@
       }
       \strng{namehash}{9dc8a8677a74bc574a1601772feccde4}
       \strng{fullhash}{47ca2c9f6781356aec2866014f647c83}
+      \strng{fullhashraw}{47ca2c9f6781356aec2866014f647c83}
       \strng{bibnamehash}{47ca2c9f6781356aec2866014f647c83}
       \strng{authorbibnamehash}{47ca2c9f6781356aec2866014f647c83}
       \strng{authornamehash}{9dc8a8677a74bc574a1601772feccde4}
       \strng{authorfullhash}{47ca2c9f6781356aec2866014f647c83}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \strng{authorfullhashraw}{47ca2c9f6781356aec2866014f647c83}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Applied Superconductivity}
@@ -109,7 +113,7 @@
       \field{pages}{1\bibrangedash 4}
       \range{pages}{4}
     \endentry
-    \entry{chouhan:srf2023-weixa05}{inproceedings}{}
+    \entry{chouhan:srf2023-weixa05}{inproceedings}{}{}
       \name{author}{4}{}{%
         {{hash=356ca0a6bb9a9e9291cabcf6a1c93451}{%
            family={Chouhan},
@@ -140,12 +144,14 @@
       }
       \strng{namehash}{7513998fe9b66abc8e97f729f3477e2a}
       \strng{fullhash}{198497adeb91798245397a60b0d4d7ee}
+      \strng{fullhashraw}{198497adeb91798245397a60b0d4d7ee}
       \strng{bibnamehash}{198497adeb91798245397a60b0d4d7ee}
       \strng{authorbibnamehash}{198497adeb91798245397a60b0d4d7ee}
       \strng{authornamehash}{7513998fe9b66abc8e97f729f3477e2a}
       \strng{authorfullhash}{198497adeb91798245397a60b0d4d7ee}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \strng{authorfullhashraw}{198497adeb91798245397a60b0d4d7ee}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{{The nitrogen doping (N-doping) process is applied to niobium (Nb) superconducting cavities to enhance their quality factors. The N-doping is followed by an electropolishing process that provides the final surface of the cavities. A controlled EP process is necessary to get the benefit of N-doping and achieve a high accelerating gradient. We have performed electropolishing of N-doped Nb surface under various conditions to understand their impact on the surface. A modified EP process was developed to obtain a smooth pit-free surface.}}
@@ -173,7 +179,7 @@
       \endverb
       \keyw{cavity,niobium,SRF,cathode,radio-frequency}
     \endentry
-    \entry{viklund:srf2021-supcav016}{inproceedings}{}
+    \entry{viklund:srf2021-supcav016}{inproceedings}{}{}
       \name{author}{5}{}{%
         {{hash=30e26f066e1c4270731de8ea652df241}{%
            family={Viklund},
@@ -209,12 +215,14 @@
       }
       \strng{namehash}{e41fd3eaae86db0e2269e835ca2b70a6}
       \strng{fullhash}{9a83a44f3c3de054725e3a921ab30c4e}
+      \strng{fullhashraw}{9a83a44f3c3de054725e3a921ab30c4e}
       \strng{bibnamehash}{9a83a44f3c3de054725e3a921ab30c4e}
       \strng{authorbibnamehash}{9a83a44f3c3de054725e3a921ab30c4e}
       \strng{authornamehash}{e41fd3eaae86db0e2269e835ca2b70a6}
       \strng{authorfullhash}{9a83a44f3c3de054725e3a921ab30c4e}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \strng{authorfullhashraw}{9a83a44f3c3de054725e3a921ab30c4e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{{To improve the superconducting performance of niobium SRF cavities, electropolishing (EP) with a sulfuric and hydroflouric acid mixture is used. The chemistry of this reaction is complex due to the interactions between diffusion mechanisms, surface oxide structure, and multiple chemical species. Past studies on the EP process have produced a certain set of optimum parameters that have been used successfully for a long time. However, two recent developments have called the efficacy of the existing EP process into question. Since the introduction of nitrogen doping the surface quality of some cavities has been very poor. Also, EP performed at colder than standard temperatures leads to an increase in the cavity performance. To understand these questions, we perform a multivariate study on the EP process using niobium test samples electropolished at different temperatures and potentials. We find that electropolishing at lower potentials leads to rough surface features such as pitting and grain etching. Some of the surface features show similarities to features seen in niobium cavities. The effect of electropolishing temperature is not clear based on the results of this study.}}
@@ -241,6 +249,51 @@
       \verb https://jacow.org/srf2021/papers/supcav016.pdf
       \endverb
       \keyw{cavity,niobium,SRF,electron,experiment}
+    \endentry
+    \entry{viklund2024healing}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=093864f3271b5dece51e27dd82a2e731}{%
+           family={Viklund},
+           familyi={V\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=5a6c56c6f3a12faecfcfe17b4349398d}{%
+           family={Seidman},
+           familyi={S\bibinitperiod},
+           given={David\bibnamedelima N},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=8a375ac60a662548580c10418a19fa9e}{%
+           family={Tennis},
+           familyi={T\bibinitperiod},
+           given={Brad\bibnamedelima M},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=8f6b4b35f29482f53c649f9f7e56dc8a}{%
+           family={Eremeev},
+           familyi={E\bibinitperiod},
+           given={Grigory},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1b330a4716eb106181b3aa53589aaedb}{%
+           family={Posen},
+           familyi={P\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad2844cdb5b20c736ef2d0e2fd9b9cf0}
+      \strng{fullhash}{7bdbc6f77b7b38d3240f96869613eab0}
+      \strng{fullhashraw}{7bdbc6f77b7b38d3240f96869613eab0}
+      \strng{bibnamehash}{7bdbc6f77b7b38d3240f96869613eab0}
+      \strng{authorbibnamehash}{7bdbc6f77b7b38d3240f96869613eab0}
+      \strng{authornamehash}{ad2844cdb5b20c736ef2d0e2fd9b9cf0}
+      \strng{authorfullhash}{7bdbc6f77b7b38d3240f96869613eab0}
+      \strng{authorfullhashraw}{7bdbc6f77b7b38d3240f96869613eab0}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2405.00211}
+      \field{title}{Healing Gradient Degradation in Nb3Sn SRF Cavities Using a Recoating Method}
+      \field{year}{2024}
+      \true{nocite}
     \endentry
   \enddatalist
 \endrefsection
